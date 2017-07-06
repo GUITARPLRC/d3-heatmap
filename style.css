@@ -1,0 +1,29 @@
+html, body {
+	background-color:grey;
+	color:#fff;
+	margin:0;
+	padding:0;
+	text-align:center;
+}
+h1, h2 {
+	margin:0;
+	text-shadow:2px 2px 3px #000;
+}
+p{
+	margin:0;
+}
+.tooltip {
+	position: absolute;
+  text-align: center;
+  width: 90px;
+  height: auto;
+  padding: 5px;
+  font: 12px sans-serif;
+  background: #000;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+}
+path {
+	display:none;
+}
